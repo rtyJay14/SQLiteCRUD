@@ -133,7 +133,7 @@ public class MyApp extends Activity implements OnClickListener
     	}
     	if(view==btnShowInfo)
     	{
-			showMessage("Student Management Application", "Developed By Azim");
+			showMessage("Student Management Application", "Miza");
     	}
     }
     public void showMessage(String title,String message)
